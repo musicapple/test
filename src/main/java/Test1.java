@@ -4,5 +4,6 @@ public class Test1 {
         int x = 10;
         int y= 5;
         System.out.println("exam1입니다!");
+        System.out.println("master입니다!");
     }
 }
