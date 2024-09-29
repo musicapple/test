@@ -5,5 +5,6 @@ public class Test1 {
 
         int y= 5;
         System.out.println("exam1입니다!");
+        System.out.println("master 아닙니다");
     }
 }
